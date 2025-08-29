@@ -1,6 +1,51 @@
-.members_clients_container {
-  display: block;
+.header {
+  margin: 15px;
+  padding: 10px;
+  background-color: #f8f3ce;
+  border: solid 4px #a2af9b;
 }
-
-.members {
+.big_title {
+  text-align: center;
+}
+.members_clients_container {
+  display: flex;
+}
+.client {
+  text-align: center;
+  width: 50%;
+  .client_list {
+    list-style-type: none;
+    li {
+      display: inline;
+      margin: 10px;
+    }
+  }
+}
+.people_wrapper {
+  text-align: center;
+  width: 50%;
+  display: block;
+  .people {
+    justify-content: center;
+    display: flex;
+    p {
+      padding: 0px 5px 5px 5px;
+    }
+  }
+}
+.content_container {
+  background-color: #f8f3ce;
+  text-align: center;
+  border: solid 4px #a2af9b;
+  border-radius: 7px;
+  box-shadow: 5px;
+  padding: 20px;
+  margin: 40px;
+  line-height: 1.2;
+  p {
+    text-align: justify;
+  }
+  li {
+    text-align: left;
+  }
 }
