@@ -70,6 +70,15 @@ export default function Home() {
           </li>
         </ul>
       </div>
+      <div className={styles.content_container}>
+        <h3>Chapter 28 Discussion Video</h3>
+        <a
+          href="https://drive.google.com/file/d/1WoB8y76nDjvWM-c7wJNQOAFZNarJyGx0/view?t=4"
+          target="_blank"
+        >
+          Video Link
+        </a>
+      </div>
 
       <div className={styles.content_container}>
         <h3>Project plan</h3>
