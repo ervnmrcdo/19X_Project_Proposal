@@ -25,6 +25,7 @@ export default function Home() {
         </div>
       </div>
       <hr />
+
       <div className={styles.content_container}>
         <h3>Project Definition</h3>
         <p>
@@ -34,6 +35,7 @@ export default function Home() {
           studentsa alike
         </p>
       </div>
+
       <div className={styles.content_container}>
         <h3>Rationale</h3>
         <p>
@@ -49,6 +51,7 @@ export default function Home() {
         <h3>Roadmap</h3>
         <p></p>
       </div>
+
       <div className={styles.content_container}>
         <h3>Project Features</h3>
         <ul>
@@ -70,6 +73,17 @@ export default function Home() {
           </li>
         </ul>
       </div>
+
+      <div className={styles.content_container}>
+        <h3>Project Specifications</h3>
+        <a
+          href="https://docs.google.com/document/d/1i44wPfOlEzdyETNkG0bAWcQvT5rZ6guNcPaGs-Cq9HE/edit?usp=sharing"
+          target="_blank"
+        >
+          Project Specifications Link
+        </a>
+      </div>
+
       <div className={styles.content_container}>
         <h3>Chapter 28 Discussion Video</h3>
         <a
