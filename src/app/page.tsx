@@ -95,6 +95,16 @@ export default function Home() {
       </div>
 
       <div className={styles.content_container}>
+        <h3>DCS Records System Project Plan</h3>
+        <a
+          href="https://docs.google.com/document/d/1i44wPfOlEzdyETNkG0bAWcQvT5rZ6guNcPaGs-Cq9HE/edit?tab=t.0"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
+
+      <div className={styles.content_container}>
         <h3>Project plan</h3>
         <p>To be added...</p>
       </div>
