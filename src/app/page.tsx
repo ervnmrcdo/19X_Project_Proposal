@@ -75,9 +75,9 @@ export default function Home() {
       </div>
 
       <div className={styles.content_container}>
-        <h3>Project Specifications</h3>
+        <h3>Project Plan</h3>
         <a
-          href="https://docs.google.com/document/d/1i44wPfOlEzdyETNkG0bAWcQvT5rZ6guNcPaGs-Cq9HE/edit?usp=sharing"
+          href="https://docs.google.com/document/d/1vrB_f7NDpS7h6MN1fyHJyi8B97Hqz0bxVrKCC4uffew/edit?usp=sharing"
           target="_blank"
         >
           Project Specifications Link
@@ -95,7 +95,7 @@ export default function Home() {
       </div>
 
       <div className={styles.content_container}>
-        <h3>DCS Records System Project Plan</h3>
+        <h3>DCS Records System Requirements </h3>
         <a
           href="https://docs.google.com/document/d/1i44wPfOlEzdyETNkG0bAWcQvT5rZ6guNcPaGs-Cq9HE/edit?tab=t.0"
           target="_blank"
@@ -105,7 +105,7 @@ export default function Home() {
       </div>
 
       <div className={styles.content_container}>
-        <h3>Project plan</h3>
+        <h3>Course Agreement</h3>
         <p>To be added...</p>
       </div>
     </>
