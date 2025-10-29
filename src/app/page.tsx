@@ -11,7 +11,8 @@ export default function Home() {
           <div className={styles.people_wrapper}>
             <h4>Client</h4>
             <div className={styles.people}>
-              <p>Prof. Juayong</p>
+              <p>Prof. Rich Juayong</p>
+              <p>Prof. Francis Cabarle</p>
             </div>
           </div>
           <div className={styles.people_wrapper}>
@@ -71,6 +72,11 @@ export default function Home() {
             Fill up the corresponding documents for application of eligible
             awards,
           </li>
+          <li>
+            CV generator that include all publications as well as classes
+            taught, projects supervised and other data not available in Google
+            Scholar/Scopus
+          </li>
         </ul>
       </div>
 
@@ -106,7 +112,12 @@ export default function Home() {
 
       <div className={styles.content_container}>
         <h3>Course Agreement</h3>
-        <p>To be added...</p>
+        <a
+          href="https://drive.google.com/file/d/1eoODnuypMgqdXLsE8Pf9zdUMRVBi7U6q/view?usp=sharing"
+          target="_blank"
+        >
+          Link
+        </a>
       </div>
     </>
   );
