@@ -119,6 +119,15 @@ export default function Home() {
           Link
         </a>
       </div>
+      <div className={styles.content_container}>
+        <h3>Project Demo: November 5, 2025</h3>
+        <a
+          href="https://drive.google.com/drive/folders/1GGUZ3SQMjdTBKFGW2tweGozFGU7bOCCI?usp=sharing"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
     </>
   );
 }
