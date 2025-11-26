@@ -129,6 +129,15 @@ export default function Home() {
         </a>
       </div>
       <div className={styles.content_container}>
+        <h3>Review Document</h3>
+        <a
+          href="https://docs.google.com/document/d/1pZhW8qYVBIPgx5x3tNUrNTlFk9hMH_KYwDF-R2n7ULM/edit?tab=t.0"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
+      <div className={styles.content_container}>
         <h3>Software Test Report</h3>
         <a
           href="https://drive.google.com/file/d/17P-omS4qVnl-HgieHnCJBJ1Icbg2dYOa/view?usp=sharing"
