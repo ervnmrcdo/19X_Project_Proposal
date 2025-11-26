@@ -131,7 +131,7 @@ export default function Home() {
       <div className={styles.content_container}>
         <h3>Software Test Report</h3>
         <a
-          href="https://docs.google.com/document/d/1Twcze35_NZrD9g0nLcZ4drPlwO5GNzY_nI7WdZ9xTBU/edit?usp=sharing"
+          href="https://drive.google.com/file/d/17P-omS4qVnl-HgieHnCJBJ1Icbg2dYOa/view?usp=sharing"
           target="_blank"
         >
           Link
