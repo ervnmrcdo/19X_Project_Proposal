@@ -146,6 +146,15 @@ export default function Home() {
           Link
         </a>
       </div>
+      <div className={styles.content_container}>
+        <h3>Weekly Report Document</h3>
+        <a
+          href="https://docs.google.com/document/d/1Sc_-r0AfcF7DZDoRbG8ktbqP9-8ewyZpotta1Q0CkzU/edit?usp=sharing"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
     </>
   );
 }
