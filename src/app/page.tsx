@@ -154,6 +154,15 @@ export default function Home() {
           Link
         </a>
       </div>
+      <div className={styles.content_container}>
+        <h3>Software Maintenance Plan</h3>
+        <a
+          href="https://docs.google.com/document/d/1fXcB-5jcLrLkMSaRVEPPTNKceUCT3-Eh6akbPW2hCV4/edit?usp=sharing"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
     </>
   );
 }
