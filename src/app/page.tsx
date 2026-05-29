@@ -199,6 +199,15 @@ export default function Home() {
           Link
         </a>
       </div>
+      <div className={styles.content_container}>
+        <h3>Final Project Documentation Paper</h3>
+        <a
+          href="https://drive.google.com/file/d/1O0V-sli2b3U6OxBM9kqYcssrSTbHZ6Th/view?usp=drive_link"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
     </>
   );
 }
