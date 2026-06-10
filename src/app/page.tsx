@@ -190,8 +190,9 @@ export default function Home() {
           Link
         </a>
       </div>
+
       <div className={styles.content_container}>
-        <h3>IT Asset Software Test Report </h3>
+        <h3>Software Test Report by IT Asset</h3>
         <a
           href="https://drive.google.com/file/d/1K4paxi01WLYqaAaGJEeU49pvdwRrrgO-/view?usp=sharing"
           target="_blank"
@@ -200,7 +201,18 @@ export default function Home() {
         </a>
       </div>
 
-      
+
+      <div className={styles.content_container}>
+        <h3>Software Test Report for IT Asset</h3>
+        <a
+          href="https://drive.google.com/file/d/1lnD6lBMPbs0yRdusBDVtEyO85JgrRiJJ/view?usp=sharing"
+          target="_blank"
+        >
+          Link
+        </a>
+      </div>
+
+
       <div className={styles.content_container}>
         <h3>April 28 Software Test Report </h3>
         <a
